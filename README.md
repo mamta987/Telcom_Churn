@@ -66,9 +66,3 @@ Before we proceed to build the ML model, we can ask some initial questions such 
  ### 6. Predictions on the Test Data
  - We will use the cutoff probability from Precision recall curve to make predictions on the test data. 
  - After prediction, performance metrics were calculated on the test dataset.
- 
- 
- 
- 
- 
- 
